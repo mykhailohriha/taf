@@ -17,8 +17,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <suiteXml>testng.xml</suiteXml>
-        <maven.compiler.target>11</maven.compiler.target>
-        <maven.compiler.source>11</maven.compiler.source>
+<!--        <maven.compiler.target>11</maven.compiler.target>-->
+<!--        <maven.compiler.source>11</maven.compiler.source>-->
             <sonar.qualitygate.wait>true</sonar.qualitygate.wait>
     </properties>
 
