@@ -1,0 +1,1 @@
+{"uuid":"2a4ca39d-1163-4c91-9c4f-2e27181f01e9","name":"tests.ui.DashboardCRUDTest","start":1659346057209,"stop":1659346075157,"children":["39d8ed27-0bff-4b8f-b8a5-6d7fb614e11e"],"befores":[{"name":"initData","status":"passed","stage":"finished","description":"","start":1659346065224,"stop":1659346065228}]}

@@ -1,0 +1,1 @@
+{"uuid":"b63a29c7-ee9f-43bf-b98c-7b69eff7a0b6","name":"Regression1","start":1658225002843,"stop":1658225025488,"children":["7fa620be-efc0-4035-8834-f052e9b7d3be","d40b9876-d1a3-492f-a6eb-24ed8d6d855c"],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","start":1658225025449,"stop":1658225025488}]}

@@ -1,0 +1,1 @@
+{"uuid":"067c0067-a3b8-4336-8e59-420e08a476cc","name":"tests.ui.GeneralSettingTest","start":1659375003488,"stop":1659375009093,"children":["21fa1b75-9e72-4e8f-b00f-20f04b8d3623"],"befores":[{"name":"initData","status":"passed","stage":"finished","description":"","start":1659375003523,"stop":1659375003534}]}
