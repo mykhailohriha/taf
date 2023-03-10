@@ -23,6 +23,7 @@
                 <configuration>
                     <systemPropertyVariables>
                         <env>local</env>
+                        <browser>chrome</browser>
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
